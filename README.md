@@ -1,25 +1,20 @@
-# AgriScribe-Generative-AI-Project
-Developed AgriScribe, an AI-based agriculture assistant, during a Gen AI Hackathon to help farmers detect crop diseases and receive intelligent recommendations.
 <div align="center">
-  <h1>🌾 AgriScribe – AI Powered Agriculture Assistant</h1>
-  <p><strong>Gen AI Hackathon Project</strong></p>
+<img width="1200" height="475" alt="AgriScribe Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
----
-
-## 📌 Overview
+# 🌾 AgriScribe – AI Powered Agriculture Assistant
 
 AgriScribe is a Generative AI-based agriculture assistant developed during a Gen AI Hackathon.  
-The project helps farmers identify crop diseases and receive intelligent AI-generated recommendations to improve productivity and decision-making.
+It helps farmers identify crop diseases and receive intelligent AI-generated recommendations to improve productivity and decision-making.
 
 ---
 
 ## 🚀 Features
 
 - 🌱 Crop disease identification  
-- 🤖 AI-generated farming recommendations  
+- 🤖 AI-generated recommendations  
 - 📊 Smart agricultural insights  
-- ⚡ Fast and responsive interface  
+- ⚡ Fast and responsive UI  
 
 ---
 
@@ -28,22 +23,14 @@ The project helps farmers identify crop diseases and receive intelligent AI-gene
 - Node.js  
 - JavaScript  
 - Google Gemini API  
-- AI Studio Deployment  
+- Google AI Studio  
 
 ---
 
-## 💡 Project Objective
+## 🌍 Live Application
 
-The objective of AgriScribe is to leverage Generative AI to assist farmers in detecting crop health issues and providing actionable solutions.  
-The system reduces manual dependency and promotes smart farming practices using AI technology.
-
----
-
-## 🧠 How It Works
-
-1. User provides crop details or symptoms  
-2. AI model analyzes the input  
-3. The system generates disease identification and smart recommendations  
+View the deployed app on AI Studio:  
+https://ai.studio/apps/4c86fe13-48a9-46c6-997e-666225c8ddbb
 
 ---
 
@@ -52,22 +39,19 @@ The system reduces manual dependency and promotes smart farming practices using 
 ### Prerequisites:
 - Node.js installed  
 
-### Steps:
+### Setup Steps:
 
-1. Install dependencies:
-   npm install
-
-2. Create a `.env.local` file and add:
-   GEMINI_API_KEY=your_api_key_here
-
-3. Start the development server:
-   npm run dev
-
+1. Install dependencies
+   
+2. Create a `.env.local` file and add your API key
+   
+3. Start the development server
+   
 ---
 
-## 🌍 Deployment
+## 💡 Project Objective
 
-This application was deployed and tested using Google AI Studio.
+The goal of AgriScribe is to leverage Generative AI to assist farmers in detecting crop health issues and providing actionable farming solutions through AI-powered insights.
 
 ---
 
